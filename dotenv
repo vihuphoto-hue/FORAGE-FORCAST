@@ -1,0 +1,10 @@
+# AI recommendations
+GROQ_API_KEY="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"
+
+# Image-analysis model access
+HF_TOKEN="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"
+
+# No key required for these services
+# Open-Meteo
+# OpenStreetMap Nominatim
+# OpenStreetMap Overpass
